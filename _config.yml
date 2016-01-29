@@ -1,0 +1,28 @@
+name: iamsean
+favicon: null
+layout_spectrum: 0.1287536344025284
+typography_spectrum: 0.6409966014325619
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8682961515150964
+  lightness: 0.3712236904539168
+  saturation: 0.4687828372698277
+  rhythmicContrast: 0.12990479893051088
+purpose: []
